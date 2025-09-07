@@ -1,8 +1,31 @@
 {
   "name": "flexokiv2",
-  "displayName": "flexokiv2",
-  "description": "flexoki inspired theme",
-  "version": "0.0.1",
+  "displayName": "Flexoki v2",
+  "description": "A warm, analog-inspired color scheme for VS Code based on Flexoki by Steph Ango",
+  "version": "1.0.0",
+  "publisher": "grll",
+  "author": {
+    "name": "Guillaume Raille"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grll/flexokiv2"
+  },
+  "bugs": {
+    "url": "https://github.com/grll/flexokiv2/issues"
+  },
+  "homepage": "https://github.com/grll/flexokiv2",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "flexoki",
+    "light-theme",
+    "analog",
+    "warm",
+    "ink",
+    "paper"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -17,5 +40,10 @@
         "path": "./themes/flexokiv2-color-theme.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#FFFCF0",
+    "theme": "light"
   }
 }
