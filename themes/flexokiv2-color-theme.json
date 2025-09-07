@@ -508,7 +508,7 @@
 		//"multiDiffEditor.background": "#fffcf0",
 		//"multiDiffEditor.border": "#dad8ce",
 		//"multiDiffEditor.headerBackground": "#262626",
-		//"notebook.cellBorderColor": "#dad8ce",
+		"notebook.cellBorderColor": "#dad8ce",
 		//"notebook.cellEditorBackground": "#fffcf0",
 		//"notebook.cellInsertionIndicator": "#007fd4",
 		//"notebook.cellStatusBarItemHoverBackground": "#ffffff26",
