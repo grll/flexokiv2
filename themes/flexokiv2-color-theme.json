@@ -1330,31 +1330,31 @@
 		{
 			"scope": "ref.matchtext",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#100F0F"
 			}
 		},
 		{
 			"scope": "token.info-token",
 			"settings": {
-				"foreground": "#6796E6"
+				"foreground": "#4385BE"
 			}
 		},
 		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#CD9731"
+				"foreground": "#D0A215"
 			}
 		},
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#F44747"
+				"foreground": "#D14D41"
 			}
 		},
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#B267E6"
+				"foreground": "#8B7EC8"
 			}
 		}
 	]
